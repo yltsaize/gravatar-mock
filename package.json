@@ -1,0 +1,23 @@
+{
+  "name": "gravatar-mock",
+  "version": "1.0.0",
+  "description": "Provide gravatar-compatible API so systems that depend on gravatar.com can continue to work without internet.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yltsaize/gravatar-mock.git"
+  },
+  "author": "Rophy Tsai <rophy123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yltsaize/gravatar-mock/issues"
+  },
+  "homepage": "https://github.com/yltsaize/gravatar-mock#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "generate-avatar": "^1.4.10"
+  }
+}
